@@ -7,7 +7,7 @@ while True:
     first = second #equate first number as the second number (after 5 + 8 =13's iteration, 8 is assiigned as the first number in the second iteration making it 8 + fib number (13) = new fib number)
     second = fibonacci #make second number equal to the fib number (ex: in the iteration above, since it had an answer of 21, then 21 is the second number in the next iteration)
 
-    if fibonacci > 4000000: #this ensures that the total sum of all tthe fib numbers does not go pass 4 million
+    if fibonacci > 4000000: #this ensures that the total sum of all the fib numbers does not go pass 4 million
         break
     
     if fibonacci % 2 == 0: #if even within the fib seqence, then it adds to the ANSWER list
