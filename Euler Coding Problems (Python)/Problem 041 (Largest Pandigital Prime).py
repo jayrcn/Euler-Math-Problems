@@ -14,7 +14,7 @@ def is_prime(n):
     return True
 
 def find_largest_pandigital_prime():
-    digits = "987654321"
+    digits = "7654321"
     
     for length in range(len(digits), 0, -1):
         perms = permutations(digits[:length])
