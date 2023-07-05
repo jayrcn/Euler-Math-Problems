@@ -7,5 +7,5 @@ Mathematical Problems Solved by Computational Computer Code-Based Calculations (
 
 # Milestones:
 <ul>
-   <li> First 50 Completed On: June 14 2023 </li>
+  <b> <li> First 50 Completed On: June 14 2023 </li>
   </ul>
